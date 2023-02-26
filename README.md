@@ -1,13 +1,14 @@
-## Hello, I'm [Kishan Chauhan!](https://imkishan.com/) 👋
-
+<h1 align="center">
+  Hi there 👋 
+</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KishanChauhan&label=Views&color=blue&style=plastic" alt="KishanChauhan" /> </p>
+
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Over 4+ years of experience as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Web Developer, I specialize in designing and building end-to-end web applications using various technologies like Python, Django, Flask, Fastapi, React js, Next JS, Express.js, HTML CSS, and Database. I am also skilled in deploying web applications using tools like Docker, AWS, Digital Ocean, Ngnix, and Git.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning more about BlockChain/Web 3.0.
@@ -19,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Linkedin: Kishan Chauhan](https://img.shields.io/badge/-imkishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-chauhan-202952169/)](https://www.linkedin.com/in/kishan-chauhan-202952169/)
 [![GitHub Kishan Chauhan](https://img.shields.io/github/followers/KishanChauhan?label=follow&style=social)](https://github.com/KishanChauhan)
-
+<img src="https://komarev.com/ghpvc/?username=KishanChauhan&label=Views&color=blue&style=plastic" alt="KishanChauhan" />
 
 **Languages and Tools:**
 
