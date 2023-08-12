@@ -8,7 +8,7 @@
 
 ---
 ### :man_technologist: About Me :
-Over 4+ years of experience as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Web Developer, I specialize in designing and building end-to-end web applications using various technologies like Python, Django, Flask, Fastapi, React js, Next JS, Express.js, HTML CSS, and Database. I am also skilled in deploying web applications using tools like Docker, AWS, Digital Ocean, Ngnix, and Git.
+Over 5 years of experience as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Web Developer, I specialize in designing and building end-to-end web applications using various technologies like Python, Django, Flask, Fastapi, React js, Next JS, Express.js, HTML CSS, and Database. I am also skilled in deploying web applications using tools like Docker, AWS, Digital Ocean, Ngnix, and Git.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning more about BlockChain/Web 3.0.
