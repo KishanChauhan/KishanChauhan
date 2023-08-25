@@ -38,16 +38,3 @@ Over 5 years of experience as a <img src="https://media.giphy.com/media/WUlplcMp
 <code><img height="20" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"></code>
 <code><img height="20" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8a31c306355eb532650043bf039d70a7/python-celery.png"></code>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<a href="https://github.com/KishanChauhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanChauhan&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/KishanChauhan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KishanChauhan&show_icons=true&theme=light&line_height=27" alt="Kishan's github stats"/>
-</a>
-
-
