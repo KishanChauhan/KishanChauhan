@@ -1,40 +1,36 @@
-<h1 align="center">
-  Hi there 👋 
-</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+### Kishan Chauhan
+**Python Backend Engineer — APIs, Data & GenAI**
 
+I build Python backends and the GenAI features that run on them. Most of my work is
+production APIs, data layers, and LLM/agentic systems wired into real applications —
+built to hold up with real users, not as demos. Around seven years in, now focused
+on backends with GenAI built in.
+
+**What I work on**
+- **Backend & APIs** — Django, FastAPI, Flask: REST APIs, auth, payments, PostgreSQL/MongoDB, Celery/Redis
+- **GenAI** — LLM integration and agentic systems with LangChain & LangGraph: custom tools, multi-agent workflows, RAG, and LLM cost tracing
+- **Deployment** — Docker, AWS, DigitalOcean
+
+📫 **Find me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-chauhan-202952169/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012485e66e46df8688)
+[![Contra](https://img.shields.io/badge/Contra-000000?style=flat)](https://contra.com/kishan_chauhan_2c48wa35)
 
 ---
-### :man_technologist: About Me :
-Over 7 years of experience as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Web Developer, I specialize in designing and building end-to-end web applications using various technologies like Python, Django, Flask, Fastapi, React js, Next JS, Express.js, HTML CSS, and Database. I am also skilled in deploying web applications using tools like Docker, AWS, Digital Ocean, Ngnix, and Git.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning more about BlockChain/Web 3.0.
-- 🤔 I’m looking for help with Web 3.0 documentation.
-- 💬 Ask me about Python/ReactJS or any tech-related stuff.
-- 📫 How to reach me: [LinkedIn - Kishan Chauhan](https://www.linkedin.com/in/kishan-chauhan-202952169/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: It’s all 0’s and 1’s.
+#### Stack
 
-[![Linkedin: Kishan Chauhan](https://img.shields.io/badge/-imkishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-chauhan-202952169/)](https://www.linkedin.com/in/kishan-chauhan-202952169/)
-[![GitHub Kishan Chauhan](https://img.shields.io/github/followers/KishanChauhan?label=follow&style=social)](https://github.com/KishanChauhan)
-<img src="https://komarev.com/ghpvc/?username=KishanChauhan&label=Views&color=blue&style=plastic" alt="KishanChauhan" />
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png"></code>
-<code><img height="20" src="https://repository-images.githubusercontent.com/203664833/cb492980-d0ad-11e9-8409-24df853c7078"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"></code>
-<code><img height="20" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
-<code><img height="20" src="https://redux.js.org/img/redux-logo-landscape.png"></code>
-<code><img height="20" src="https://tkdodo.eu/blog/static/e34c9bdb709f49c90b76af647160ca18/73f08/react-query.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"></code>
-<code><img height="20" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399__480.png"></code>
-<code><img height="20" src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"></code>
-<code><img height="20" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8a31c306355eb532650043bf039d70a7/python-celery.png"></code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
