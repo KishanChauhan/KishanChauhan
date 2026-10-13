@@ -1,15 +1,22 @@
 ### Kishan Chauhan
-**Python Backend Engineer — APIs, Data & GenAI**
+**Full-Stack Engineer — Code Review, Production Readiness & Delivery**
 
-I build Python backends and the GenAI features that run on them. Most of my work is
-production APIs, data layers, and LLM/agentic systems wired into real applications —
-built to hold up with real users, not as demos. Around seven years in, now focused
-on backends with GenAI built in.
+I help teams get apps into a stable, production-ready state, whether that's a new build done
+properly from the start or an existing app that isn't holding up. A lot of that lately is
+code written quickly with AI tools (Cursor, Lovable, Bolt, Replit) that works in a demo
+but breaks with real users.
 
-**What I work on**
-- **Backend & APIs** — Django, FastAPI, Flask: REST APIs, auth, payments, PostgreSQL/MongoDB, Celery/Redis
-- **GenAI** — LLM integration and agentic systems with LangChain & LangGraph: custom tools, multi-agent workflows, RAG, and LLM cost tracing
-- **Deployment** — Docker, AWS, DigitalOcean
+**What I usually do**
+- Review the code, database, deployment and integrations, and give a plain list of what's risky and what to fix first
+- Fix what breaks in production: service-to-service calls, migrations, connection limits, error handling, logging
+- Set up repeatable deploys with Docker, CI/CD and health checks on AWS
+- Review existing AI features for cost and safety: model choice, prompt size, caching, prompt injection, data access
+
+**Recent work** (client code is private, happy to walk through it on a call)
+- Took an AI nutrition app's backend from 4–5 unstable AI-generated services to 10 production containers and 270+ endpoints, with CI/CD to AWS and PgBouncer in front of RDS
+- Turned around a grants platform (UI, mobile, bugs, SEO): 2.8K clicks and 18.1K impressions in a month, verified in Search Console
+- Reworked an unreliable report-generation parser so outputs could ship without manual checks
+
 
 📫 **Find me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-chauhan-202952169/)
