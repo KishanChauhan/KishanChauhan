@@ -1,21 +1,25 @@
 ### Kishan Chauhan
-**Full-Stack Engineer — Code Review, Production Readiness & Delivery**
+**Senior Python Backend Engineer — Production Readiness, Backend Hardening & AI Integration**
 
-I help teams get apps into a stable, production-ready state, whether that's a new build done
-properly from the start or an existing app that isn't holding up. A lot of that lately is
-code written quickly with AI tools (Cursor, Lovable, Bolt, Replit) that works in a demo
-but breaks with real users.
+I take SaaS backends from "it works" to production-ready — whether built with AI tools, by an in-house team, or from scratch. 8+ years in production backend engineering.
 
-**What I usually do**
-- Review the code, database, deployment and integrations, and give a plain list of what's risky and what to fix first
-- Fix what breaks in production: service-to-service calls, migrations, connection limits, error handling, logging
+A lot of my recent work is reviewing and hardening backends built quickly with AI coding tools (Cursor, Lovable, Bolt, Replit) that work in a demo but break under real users and real load.
+
+**What I do**
+- Review backend architecture, database design, deployment and integrations — deliver a clear verdict: what's risky and what to fix first
+- Fix what breaks in production: connection pooling, async job failures, error handling, retry logic, logging gaps
+- Build production backends from scratch: APIs, multi-tenant architecture, payments, background jobs
 - Set up repeatable deploys with Docker, CI/CD and health checks on AWS
-- Review existing AI features for cost and safety: model choice, prompt size, caching, prompt injection, data access
+- Integrate AI features with production discipline: RAG pipelines, AI agents, cost tracking, guardrails, data isolation
 
-**Recent work** (client code is private, happy to walk through it on a call)
-- Took an AI nutrition app's backend from 4–5 unstable AI-generated services to 10 production containers and 270+ endpoints, with CI/CD to AWS and PgBouncer in front of RDS
-- Turned around a grants platform (UI, mobile, bugs, SEO): 2.8K clicks and 18.1K impressions in a month, verified in Search Console
-- Reworked an unreliable report-generation parser so outputs could ship without manual checks
+**What I've shipped**
+- Multi-tenant RAG chat widget — per-client AI chatbots with isolated vector stores, full RAG pipeline, selectable LLM per widget
+- ERP AI Agent — conversational AI that queries and acts on business data in plain English, built with LangGraph, shipped in 45 days
+- Quick commerce platform — 5 FastAPI microservices, real-time coordination, 30-minute delivery SLA, zero missed deliveries
+- AI recruitment platform — LLM screening + embedding-based matching across microservices, multi-LLM pipeline (OpenAI + Claude)
+- Healthcare SaaS — AI transcription + LLM extraction with no-hallucination guardrails, complex EHR integrations
+
+**Stack:** Python (FastAPI, Django) · PostgreSQL · Redis · Celery · LangChain · LangGraph · AWS · Docker
 
 
 📫 **Find me:**
